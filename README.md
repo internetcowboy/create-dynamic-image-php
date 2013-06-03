@@ -1,0 +1,1 @@
+This is a dynamic image stitching example using PHP gd2. Check out the 'baller-car.jpg' and the 'baller-car.png' image that is the output of this source.
